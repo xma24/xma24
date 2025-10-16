@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I'm Anna Xu  
+Ph.D. | AI Researcher | Vision × Language × Generation  
+
+---
+
+### 🔬 About Me
+Exploring the intersection of Computer Vision, Large Language Models, and Generative AI.
+
 
 <!--
 **xma24/xma24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
