@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anna Xu  
+# 👋 Hi, I'm Xin Ma 
 Ph.D. | AI Researcher | Vision × Language × Generation  
 
 ---
