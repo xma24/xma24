@@ -8,4 +8,4 @@ Exploring the intersection of Computer Vision, Large Language Models, and Genera
 
 
 ## 🧠 Large Language Models (LLM)
-- [**miniGPT**](https://github.com/xma24/miniGPT): Minimal GPT implementation in PyTorch, with resume training & offline visualization.  
+- https://github.com/xma24/miniGPT: Minimal GPT implementation in PyTorch, with resume training & offline visualization.  
