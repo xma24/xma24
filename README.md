@@ -7,17 +7,20 @@ Ph.D. | AI Researcher | Vision × Language × Generation
 Exploring the intersection of Computer Vision, Large Language Models, and Generative AI.
 
 
-<!--
-**xma24/xma24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Featured Projects – LLM & Generative AI
 
-Here are some ideas to get you started:
+#### [miniGPT](https://github.com/xma24/miniGPT)
+A minimal implementation of GPT architecture from scratch in PyTorch.  
+Includes training pipeline, dataset tokenization, and local visualization (TensorBoard + WandB offline).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧩 **Domain**: LLM, Transformer, Text Generation  
+- ⚙️ **Tech Stack**: PyTorch, Hugging Face Datasets, tiktoken  
+- 📊 **Features**: Resume training, offline logging, real-time loss visualization  
+- 💡 **Goal**: Understand the inner mechanics of GPT-style models.
+
+---
+
+### 🎨 Other Interests
+- Vision × Language reasoning  
+- Generative diffusion & multimodal models  
+- Efficient fine-tuning & adaptation of LLMs
